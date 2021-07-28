@@ -8,6 +8,10 @@ The prediction task is to determine whether a person makes over $50K a year.
 
 
 
+![image](https://user-images.githubusercontent.com/62472111/127283506-3e6436cc-23ce-4c98-bdfe-d86ee1065f55.png)
+
+
+
 
 
 

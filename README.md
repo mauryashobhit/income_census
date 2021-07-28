@@ -7,8 +7,8 @@ A set of reasonably clean records was extracted using the following conditions: 
 The prediction task is to determine whether a person makes over $50K a year.
 
 
+![image](https://user-images.githubusercontent.com/62472111/127283670-6b12d005-325d-44b7-9c56-e61c43fe5cc4.png)
 
-![image](https://user-images.githubusercontent.com/62472111/127283506-3e6436cc-23ce-4c98-bdfe-d86ee1065f55.png)
 
 
 
